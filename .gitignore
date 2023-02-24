@@ -13,3 +13,6 @@ streamlit_freegrid/freegrid/build/
 streamlit_freegrid.egg-info/
 .eggs/
 dist/
+build/
+
+.idea/
