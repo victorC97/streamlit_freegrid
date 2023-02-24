@@ -4,11 +4,12 @@ MANIFEST.in
 
 streamlit_freegrid/frontend/.env
 streamlit_freegrid/frontend/.prettierrc
-streamlit_freegrid/frontend/package.json
 streamlit_freegrid/frontend/tsconfig.json
 streamlit_freegrid/frontend/public/
 streamlit_freegrid/frontend/node_modules/
 streamlit_freegrid/frontend/build/
+streamlit_freegrid/frontend/package-lock.json
+streamlit_freegrid/frontend/package.json
 
 streamlit_freegrid.egg-info/
 .eggs/
